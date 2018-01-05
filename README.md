@@ -26,7 +26,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
-*[Cooperative Multi-agent Control Using DeepReinforcement Learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)by ALA2017_Gupta
+* [Cooperative Multi-agent Control Using DeepReinforcement Learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)by ALA2017_Gupta
 * [Deep Reinforcement Learning Variants of Multi-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf) by Castaneda A O. 2016.
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
 * [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.
